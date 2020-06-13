@@ -2,7 +2,7 @@
 
 ## About
 
-I did this simple weather app project to review JS, HTML, CSS and a learning intro into _Vue_ and _API integration_ using the [openweathermap](https://openweathermap.org/api) api.
+I did this simple weather app project to review JS, HTML, CSS and a learning intro into **Vue** and **API integration** using the [openweathermap](https://openweathermap.org/api) api.
 
 
 ### What I learnt
