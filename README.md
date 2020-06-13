@@ -1,5 +1,7 @@
 # vue-weather
 
+![image of weather app](src/assets/screenshot.png?raw=true "Vue Weather App")
+
 ## About
 
 I did this simple weather app project to review JS, HTML, CSS and a learning intro into **Vue** and **API integration** using the [openweathermap](https://openweathermap.org/api) api.
