@@ -1,24 +1,20 @@
 # vue-weather
 
-## Project setup
-```
-yarn install
-```
+## About
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+I did this simple weather app project to review JS, HTML, CSS and a learning intro into _Vue_ and _API integration_ using the [openweathermap](https://openweathermap.org/api) api.
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### What I learnt
+ * API integration
+ * Basics of Vue
+ * JavaScript review
+ * CSS review
+ * json
+ * Working with search queries
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### How I ran the server
+
+ ```bash
+ npm run serve
+ ```
